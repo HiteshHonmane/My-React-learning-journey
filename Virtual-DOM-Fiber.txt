@@ -1,0 +1,14 @@
+My learnings;
+
+So createRoot element Creates the tree structure
+then reconsilation Introduced : 
+reconsilation Differs between Previos Dom-Tree And Updated Dom-Tree By react.
+
+React  use Fiber inside fiber reconsilation  takes place 
+inside reconsilation drffer trees comapired
+
+fiber optimise the instant update to wait for second or fiber has ability to hold update.
+fiber can prioritise the updates.
+
+why we use keys in  array obj in loops.
+To improve react preformance 
